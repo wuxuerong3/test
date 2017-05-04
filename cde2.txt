@@ -1,2 +1,6 @@
 1.ced2
+<<<<<<< HEAD
 2.v1分支专门修改
+=======
+2.modify the deleted file
+>>>>>>> v1
