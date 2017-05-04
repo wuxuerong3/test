@@ -1,6 +1,2 @@
 1.ced2
-<<<<<<< HEAD
-2.这一行我比liwurong2迟修改
-=======
-2.new ced2
->>>>>>> 784a2a2665abeb4b12049bd914a2fc0712ee47e0
+2.modify the change before update to create conflict
